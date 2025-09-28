@@ -1,6 +1,6 @@
 # Deletion
 
-def delete(self, key):
+'''def delete(self, key):
 
     if No head:
         return
@@ -34,3 +34,4 @@ def delete(self, key):
         current = current.next
 
     temp.next = current.next
+'''

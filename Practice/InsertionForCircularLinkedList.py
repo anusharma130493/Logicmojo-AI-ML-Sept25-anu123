@@ -1,5 +1,5 @@
 # If No head
-if No head:
+'''if No head:
     self.head = new_node
     new_node.next = self.head
     return
@@ -30,3 +30,4 @@ while current.next != previous:
 
 current.next = new_node
 new_node.next = previous
+'''
